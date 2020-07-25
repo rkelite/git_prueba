@@ -1,0 +1,101 @@
+
+.principal{
+    width: auto;
+    border: 1px solid slategrey; 
+    padding-bottom: auto;
+}
+
+h1{
+    font: bolder 34px sans-serif;
+    text-align: left;
+    border: 1px solid black;
+    background:	#418acf;
+    padding-bottom: 5px;
+    margin-top: auto;
+    color: #fbf2ef;
+    margin-bottom: auto;
+    padding-left: 10px
+    ;
+}   
+
+.menu{
+    background:	#366dbd;
+    text-align: left;
+    margin-top: 0px;
+    width: auto;
+    padding-top: 0px;
+    font-size: 20px;
+    padding-left: 0px   ;
+}
+
+.menu li{
+    display: inline;
+    padding-left: 8px;
+}
+
+a{
+    color:	#fbf2ef;
+    outline-offset: 0px;
+}
+
+a:hover{
+    color:coral;
+    font-size: 14px;
+}
+
+a:visited{
+    color: #fbf2ef;
+}
+
+a:active{
+    color: 	#fbf2ef;
+}
+
+.seccion1{
+    width: 90%;
+    float: left;
+    border: 2px solid black;
+
+}
+
+.laterales{
+    width: 9%;
+    float: right;
+    border: 2px solid black;
+}
+
+.pie_f{
+    clear: both;
+    text-align: center;
+    font-size: 15px;
+}
+
+p{
+    color: blueviolet;
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+}
+
+.center{
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.pie_1{
+    padding-top: 15px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.Lateral1{
+    border: 1px solid gray;
+}
+
+.Lateral2{
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
